@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<Title>109306015</Title>
-</head>
+
 <body>
 <H1>Hello World!
 <br>Hello HTML5!</H1>
