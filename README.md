@@ -7,5 +7,3 @@
 <p>
 	<a href ="https://bugee1234.github.io/template/">Back to Index</a>
 </p>
-</body>
-</html>
